@@ -134,3 +134,6 @@ AG
 CCC
 ```
 
+This C++ program reads several binary strings and encodes each one into a sequence of characters based on fixed 2-bit patterns. It reads the number of test cases, then for each test case, it takes the length and the binary string. It processes the string two characters at a time using simple indexing and converts each pair as follows: "00" → 'A', "01" → 'T', "10" → 'C', and "11" → 'G'. The result of each conversion is stored in a temporary string.
+
+After processing each test case, the program stores the encoded strings in a vector. Once all test cases are handled, it prints the results line by line. The code avoids using functions or substrings and relies only on loops, indexing, and character comparisons, making it simple and beginner-friendly.
