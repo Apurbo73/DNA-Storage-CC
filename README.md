@@ -1,6 +1,5 @@
 ﻿# DNA-Storage-CC
 
-Absolutely! Here's a **full explanation** of each part of the C++ code using simple language, perfect for beginners:
 
 ---
 
@@ -135,4 +134,3 @@ AG
 CCC
 ```
 
-Let me know if you want a [code flowchart](f) or a [visual test case simulation](f) to make this even clearer.
