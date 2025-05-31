@@ -1,4 +1,4 @@
-﻿# DNA-Storage-CC
+### DNA Storage CC:
 
 
 ---
